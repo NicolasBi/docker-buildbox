@@ -186,13 +186,13 @@ kubectl:
         - helmfile --version
     build_args:
       EKSCTL_VERSION: 0.36.0
-      KUBECTL_VERSION: 1.20.2
+      KUBECTL_VERSION: 1.20.5
       KUBECTX_VERSION: 0.9.1
-      KUBESCORE_VERSION: 1.10.0
+      KUBESCORE_VERSION: 1.10.1
       KUBEVAL_VERSION: 0.15.0
-      KUSTOMIZATION_VERSION: 3.9.2
-      HELM_VERSION: 3.5.0
-      HELMFILE_VERSION: 0.138.6
+      KUSTOMIZATION_VERSION: 4.0.5
+      HELM_VERSION: 3.5.2
+      HELMFILE_VERSION: 0.138.7
 
 node_test_config: &node_test_config
   cmd:

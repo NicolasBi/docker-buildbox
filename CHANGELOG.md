@@ -13,7 +13,7 @@ Versions
 * Upgrade Golang migrate version: 4.14.1
 * Upgrade Golang testfixtures version: 3.5.0
 * Removing terraform from the azure image. Adding azure cli to the terraform image
-
+* Bumping kubectl to 1.20.5 and misc kubernetes tools'
 
 2021-02-28
 -----------
